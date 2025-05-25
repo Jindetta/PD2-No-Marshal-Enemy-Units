@@ -1,0 +1,21 @@
+{
+	"name": "No Marshal Enemy Units",
+	"description": "No Marshal marksman/shield unit spawns.",
+    "author": "Jindetta",
+    "version": "1.0",
+	"blt_version": 2,
+	"hooks": [
+        {
+            "hook_id": "lib/tweak_data/levelstweakdata",
+            "script_path": "main.lua"
+        }
+    ],
+    "updates": [
+        {
+            "identifier": "NMEUSMod-by-Jindetta",
+            "host" : {
+                "meta": "https://raw.githubusercontent.com/Jindetta/PD2-Predetermined-Cook-Order/master/meta.json"
+            }
+        }
+    ]
+}
