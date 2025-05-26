@@ -14,7 +14,7 @@
         {
             "identifier": "NMEUSMod-by-Jindetta",
             "host" : {
-                "meta": "https://raw.githubusercontent.com/Jindetta/PD2-Predetermined-Cook-Order/master/meta.json"
+                "meta": "https://raw.githubusercontent.com/Jindetta/PD2-No-Marshal-Enemy-Units/refs/heads/dev/meta.json"
             }
         }
     ]
